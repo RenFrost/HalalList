@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "132081346596",
+    "firebase_url": "https://scihalallist-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "scihalallist",
+    "storage_bucket": "scihalallist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132081346596:android:9e5880f130ee042fe0d0b1",
+        "android_client_info": {
+          "package_name": "com.example.scihalallist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132081346596-8nk97ltvfmb656oqkl3pnjrgu3fq87jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw7ckgPKDZmRIK7l2UBkvV6boopVzRWYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132081346596-8nk97ltvfmb656oqkl3pnjrgu3fq87jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
